@@ -1,0 +1,17 @@
+{
+  "name": "usersdb",
+  "version": "1.0.0",
+  "description": "Simple json usres database",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "json-server,heroku, node, REST API"
+  ],
+  "author": "Edward Ramos",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
